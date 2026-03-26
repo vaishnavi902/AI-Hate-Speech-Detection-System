@@ -39,4 +39,12 @@ HateShield is an AI-powered web application designed to detect hate speech in us
 - Render (Deployment)
 ---
 
-## 📁 Project Structure
+##Deploy
+*Live Project Link:
+https://ai-hate-speech-detection-system.onrender.com
+
+*History Project Link:
+https://ai-hate-speech-detection-system.onrender.com/history
+
+GitHub Repository:
+https://github.com/vaishnavi902/AI-Hate-Speech-Detection-System
